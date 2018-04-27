@@ -1,0 +1,29 @@
+{
+  "name": "filebase64",
+  "description": "translate file to base64 code",
+  "version": "1.0.0",
+  "author": "jie.qin <jie.qin@condenast.com.cn>",
+  "contributors": [],
+  "keywords": [],
+  "repository": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "fileinfo": "^1.0.4"
+  },
+  "main": "bin/bin.js",
+  "preferGlobal": true,
+  "bin": {
+    "f64": "./bin/bin.js"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "files": [
+    "LICENSE",
+    "bin/",
+    "templates/"
+  ],
+  "scripts": {}
+}
