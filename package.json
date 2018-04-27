@@ -1,11 +1,11 @@
 {
-  "name": "filebase64",
+  "name": "file2base64",
   "description": "translate file to base64 code",
-  "version": "1.0.0",
-  "author": "jie.qin <jie.qin@condenast.com.cn>",
+  "version": "1.0.1",
+  "author": "qinjie <qjkiddy83@126.com>",
   "contributors": [],
   "keywords": [],
-  "repository": "",
+  "repository": "https://github.com/qjkiddy83/filebase64",
   "license": "MIT",
   "dependencies": {
     "commander": "^2.11.0",
